@@ -1,4 +1,4 @@
-drush-7-make
+Drupal 7 makefiles
 ============
 
-My standard drush makefile for Drupal 7
+My standard drush makefiles for Drupal 7
