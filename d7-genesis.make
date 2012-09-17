@@ -80,8 +80,8 @@ projects[advanced_help][version] = 1.0
 projects[advanced_help][type] = "module"
 projects[] = variable
 projects[] = mailsystem
-projects[] = content_migrate
-projects[] = I18n_string
+projects[] = migrate
+projects[] = i18n
 projects[] = elements
 
 ; Themes
