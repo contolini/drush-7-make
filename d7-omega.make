@@ -74,6 +74,15 @@ projects[views_bulk_operations][version] = 3.0
 projects[views_bulk_operations][type] = "module"
 projects[webform][version] = 3.18
 projects[webform][type] = "module"
+projects[content_access][version] = 1.2-beta1
+projects[content_access][type] = "module"
+projects[advanced_help][version] = 1.0
+projects[advanced_help][type] = "module"
+projects[] = variable
+projects[] = mailsystem
+projects[] = content_migrate
+projects[] = I18n_string
+projects[] = elements
 
 ; Themes
 ; --------
