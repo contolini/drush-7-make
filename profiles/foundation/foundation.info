@@ -75,6 +75,7 @@ dependencies[] = login_destination
 dependencies[] = pathauto
 dependencies[] = site_map
 dependencies[] = token
+dependencies[] = less
 
 ; Panels
 dependencies[] = panels

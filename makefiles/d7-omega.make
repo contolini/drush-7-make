@@ -50,6 +50,7 @@ projects[i18n] = "module"
 projects[elements] = "module"
 projects[delta] = "module"
 projects[captcha] = "module"
+projects[less] = "module"
 
 ; Themes
 ; --------
