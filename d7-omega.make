@@ -8,7 +8,7 @@ api = 2
 
 ; Core project
 ; ------------
-projects[drupal][version] = 7
+projects[drupal][version] = 7.x
 
 ; Modules
 ; --------
@@ -45,11 +45,12 @@ projects[views_bulk_operations][type] = "module"
 projects[webform][type] = "module"
 projects[content_access][type] = "module"
 projects[advanced_help][type] = "module"
-projects[variable] =  "module"
-projects[mailsystem] =  "module"
-projects[migrate] =  "module"
-projects[i18n] =  "module"
-projects[elements] =  "module"
+projects[variable] = "module"
+projects[mailsystem] = "module"
+projects[migrate] = "module"
+projects[i18n] = "module"
+projects[elements] = "module"
+projects[delta] = "module"
 
 ; Themes
 ; --------

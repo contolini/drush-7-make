@@ -1,0 +1,109 @@
+name = Crux
+description = Install with commonly used features pre-configured + some more fun stuff.
+version = VERSION
+core = 7.x
+
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = contact
+dependencies[] = statistics
+dependencies[] = trigger
+
+; Access Control
+dependencies[] = content_access
+
+; Administration
+dependencies[] = admin
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+dependencies[] = front_page
+
+; Chaos Tool Suite
+dependencies[] = ctools
+dependencies[] = ctools_custom_content
+dependencies[] = page_manager
+dependencies[] = views_content
+
+; Context
+dependencies[] = context
+dependencies[] = context_layouts
+dependencies[] = context_ui
+
+; Fields
+dependencies[] = computed_field
+dependencies[] = content_taxonomy
+dependencies[] = content_taxonomy_autocomplete
+dependencies[] = email
+dependencies[] = link
+
+; Mail
+dependencies[] = mailsystem
+dependencies[] = mimemail
+dependencies[] = mimemail_action
+
+; Markup
+dependencies[] = html5_tools
+
+; Modernizr
+dependencies[] = modernizr
+
+; Multilingual - Internationalization
+
+; Other
+dependencies[] = advanced_help
+dependencies[] = backup_migrate
+dependencies[] = elements
+dependencies[] = entity_token
+dependencies[] = login_destination
+dependencies[] = pathauto
+dependencies[] = site_map
+dependencies[] = token
+
+; Panels
+dependencies[] = panels
+dependencies[] = panels_mini
+dependencies[] = panels_node
+dependencies[] = panels_ipe
+
+; Rules
+dependencies[] = rules
+dependencies[] = rules_scheduler
+dependencies[] = rules_admin
+
+; Spam Control
+dependencies[] = captcha
+dependencies[] = recaptcha
+
+; Analytics
+dependencies[] = googleanalytics
+
+; User Interface
+dependencies[] = jquery_ui
+dependencies[] = jquery_update
+dependencies[] = wysiwyg
+dependencies[] = ckeditor
+
+; Views
+dependencies[] = views
+dependencies[] = views_ui
+
+; Webform
+dependencies[] = webform
