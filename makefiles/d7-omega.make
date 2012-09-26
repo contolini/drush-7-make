@@ -8,7 +8,7 @@ api = 2
 
 ; Core project
 ; ------------
-projects[drupal][version] = 7.x
+projects[drupal][version] = 7
 
 ; Modules
 ; --------
@@ -51,6 +51,7 @@ projects[migrate] = "module"
 projects[i18n] = "module"
 projects[elements] = "module"
 projects[delta] = "module"
+projects[captcha] = "module"
 
 ; Themes
 ; --------
