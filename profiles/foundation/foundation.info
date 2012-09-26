@@ -1,5 +1,5 @@
-name = Crux
-description = Install with commonly used features pre-configured + some more fun stuff.
+name = Foundation
+description = Install with commonly used features pre-configured + some more useful modules.
 version = VERSION
 core = 7.x
 
