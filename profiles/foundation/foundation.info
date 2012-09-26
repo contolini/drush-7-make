@@ -96,7 +96,6 @@ dependencies[] = recaptcha
 dependencies[] = googleanalytics
 
 ; User Interface
-dependencies[] = jquery_ui
 dependencies[] = jquery_update
 dependencies[] = wysiwyg
 dependencies[] = ckeditor
