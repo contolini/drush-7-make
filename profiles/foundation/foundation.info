@@ -31,7 +31,6 @@ dependencies[] = trigger
 dependencies[] = content_access
 
 ; Administration
-dependencies[] = admin
 dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = front_page

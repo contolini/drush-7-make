@@ -12,7 +12,6 @@ projects[drupal][version] = 7
 
 ; Modules
 ; --------
-projects[admin][type] = "module"
 projects[admin_menu][type] = "module"
 projects[ctools][type] = "module"
 projects[context][type] = "module"
