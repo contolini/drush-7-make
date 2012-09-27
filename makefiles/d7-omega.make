@@ -51,6 +51,8 @@ projects[elements] = "module"
 projects[delta] = "module"
 projects[captcha] = "module"
 projects[less] = "module"
+projects[libraries] = "module"
+projects[computed_field_tools] = "module"
 
 ; Themes
 ; --------
